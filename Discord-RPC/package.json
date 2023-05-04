@@ -2,7 +2,7 @@
   "name": "custom-rpc",
   "version": "0.1.0",
   "description": "",
-  "main": "app.js",
+  "main": "main.js",
   "type": "module",
   "scripts": {
     "rpc": "node ./main.js"
